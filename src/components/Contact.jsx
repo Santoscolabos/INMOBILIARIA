@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { MapPin, Phone, Clock, Mail, Send, CheckCircle, AlertCircle } from 'lucide-react'
 
-const WEBHOOK_URL = 'https://jorgesantosia.app.n8n.cloud/webhook/4b7488f8-1638-475d-b8c5-e82025e75ce1'
+const WEBHOOK_URL = 'https://jorgesantosia.app.n8n.cloud/webhook/4b7488f8-1638-475d-b8c5-e82025'
 
 const inputStyle = {
   width: '100%',
